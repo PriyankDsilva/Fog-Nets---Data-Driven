@@ -1,0 +1,99 @@
+,village,subscriber_id,village_resident,is_school,is_mosque,is_connected,subscription_jun_2015,subscription_jul_2015,subscription_aug_2015,subscription_sep_2015,subscription_oct_2015,subscription_nov_2015,subscription_dec_2015,subscription_jan_2016
+0,Timtda,NV,False,False,False,False,,,,,,,,
+1,Timtda,6m,True,False,False,True,11.0,0.0,11.0,11.0,0.0,0.0,0.0,11.0
+2,Timtda,yD,True,False,False,True,11.0,11.0,11.0,11.0,11.0,11.0,0.0,11.0
+3,Timtda,2l,True,False,False,True,11.0,11.0,11.0,11.0,11.0,11.0,11.0,11.0
+4,Timtda,rD,True,False,False,True,11.0,11.0,,7.0,11.0,0.0,0.0,11.0
+5,Timtda,lv,True,False,False,True,11.0,11.0,0.0,11.0,0.0,11.0,0.0,0.0
+6,Timtda,jv,False,False,False,True,,,77.0,,,,,
+7,Timtda,D1,True,False,False,True,11.0,11.0,11.0,,18.0,0.0,0.0,11.0
+8,Timtda,Qg,False,False,False,False,,,,,,,,
+9,Timtda,aW,True,False,False,True,11.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0
+10,Timtda,kg,False,False,False,False,,,,,,,,
+11,Timtda,47,True,False,False,True,0.0,11.0,0.0,11.0,,,,
+12,Timtda,xa,False,False,True,False,,,,,,,,
+13,Timtda,gq,False,False,False,False,,,,,,,,
+14,Timtda,zX,False,False,False,True,,0.0,35.0,,,,,28.0
+15,Timtda,nz,False,False,False,False,,,,,,,,
+16,Timtda,8K,False,False,False,True,,,,,,,,77.0
+17,Timtda,ZP,False,False,False,False,,,,,,,,
+18,Id Achour,Rm,True,False,False,True,11.0,11.0,11.0,11.0,11.0,11.0,11.0,11.0
+19,Id Achour,12,True,False,False,True,11.0,11.0,0.0,11.0,0.0,0.0,0.0,11.0
+20,Id Achour,o9,False,False,False,False,,,,,,,,
+21,Id Achour,K4,True,False,False,True,11.0,0.0,,18.0,0.0,0.0,0.0,11.0
+22,Id Achour,YM,True,False,False,True,11.0,,77.0,,,4.0,,4.0
+23,Id Achour,Lp,True,False,False,True,11.0,11.0,11.0,,18.0,0.0,0.0,0.0
+24,Id Achour,mx,False,False,False,False,,,,,,,,
+25,Id Achour,Jl,False,False,True,True,,,,77.0,,,,
+26,Id Achour,pO,True,False,False,True,11.0,,,,92.0,,,
+27,Id Achour,Eq,True,False,False,True,11.0,11.0,11.0,,11.0,11.0,11.0,11.0
+28,Id Achour,bZ,True,False,False,True,11.0,11.0,0.0,,18.0,11.0,0.0,0.0
+29,Id Achour,Vg,True,False,False,True,0.0,0.0,88.0,,,,,
+30,Id Achour,qD,True,False,False,True,1.0,1.0,1.0,0.0,0.0,1.0,0.0,
+31,Id Achour,3L,True,False,False,True,,,,,92.0,7.0,2.0,11.0
+32,Id Achour,OQ,False,False,False,False,,,,,,,,
+33,Id Achour,Bq,False,True,False,True,,,,,,6.0,6.0,
+34,Aguejgal,vj,False,False,False,True,,,,,,,,77.0
+35,Aguejgal,9j,False,False,False,False,,,,,,,,
+36,Aguejgal,Wv,False,False,False,False,,,,,,,,
+37,Aguejgal,w1,False,False,False,True,,,,77.0,0.0,,,
+38,Aguejgal,XY,True,False,False,True,11.0,11.0,11.0,,18.0,11.0,0.0,11.0
+39,Agni Zekri,PO,False,True,False,True,,,,,,3.0,3.0,
+40,Agni Zekri,MB,True,False,False,True,11.0,11.0,11.0,11.0,0.0,0.0,0.0,11.0
+41,Agni Zekri,eP,True,False,False,True,11.0,11.0,11.0,0.0,11.0,11.0,11.0,11.0
+42,Agni Zekri,7L,True,False,False,True,11.0,11.0,11.0,11.0,21.0,11.0,0.0,11.0
+43,Id Sator,58x,False,False,False,True,,,77.0,,,,,
+44,Id Sator,NVV,False,False,False,False,,,,,,,,
+45,Id Sator,6gm,False,False,False,True,,,77.0,,,,,
+46,Id Sator,yzD,True,False,False,True,11.0,11.0,11.0,11.0,11.0,11.0,11.0,11.0
+47,Id Sator,2bl,False,False,True,True,,,,,,,,
+48,Id Sator,rlD,False,False,False,False,,,,,,,,
+49,Id Sator,lav,True,False,False,True,11.0,11.0,11.0,32.0,11.0,11.0,0.0,11.0
+50,Id Sator,jrv,False,False,False,False,,,,,,,,
+51,Id Sator,D41,False,False,False,True,,,,,77.0,,,
+52,Id Sator,Q2g,False,False,False,False,,,,,,,,
+53,Id Sator,agW,True,False,False,True,11.0,11.0,0.0,0.0,0.0,0.0,11.0,
+54,Id Sator,kRg,True,False,False,True,11.0,0.0,0.0,11.0,0.0,0.0,11.0,0.0
+55,Id Sator,4D7,True,False,False,True,11.0,11.0,11.0,11.0,11.0,11.0,11.0,11.0
+56,Id Soussan,xJa,False,False,False,False,,,,,,,,
+57,Id Soussan,g6q,False,False,False,False,,,,,,,,
+58,Id Soussan,zoX,False,False,False,False,,,,,,,,
+59,Id Soussan,n2z,True,False,False,True,11.0,11.0,11.0,11.0,11.0,11.0,11.0,11.0
+60,Id Soussan,89K,False,False,False,False,,,,,,,,
+61,Id Soussan,ZxP,True,False,False,True,11.0,11.0,11.0,0.0,11.0,0.0,0.0,11.0
+62,Id Soussan,RWm,False,False,False,True,,,,100.0,,0.0,,
+63,Id Soussan,1Z2,True,False,False,True,11.0,11.0,11.0,11.0,0.0,0.0,0.0,11.0
+64,Id Soussan,or9,True,False,False,True,11.0,11.0,0.0,11.0,11.0,0.0,11.0,0.0
+65,Id Soussan,KV4,True,False,False,True,11.0,11.0,11.0,11.0,11.0,0.0,0.0,
+66,Id Soussan,Y4M,False,False,False,True,,,77.0,,,,,
+67,Id Soussan,L1p,True,False,False,True,11.0,11.0,11.0,11.0,0.0,0.0,0.0,11.0
+68,Id Soussan,mPx,True,False,False,True,11.0,11.0,,4.0,,,,
+69,Agadir  Id Lghachi,Jvl,True,False,False,True,11.0,11.0,11.0,11.0,0.0,11.0,0.0,0.0
+70,Agadir  Id Lghachi,pkO,True,False,False,True,11.0,11.0,0.0,11.0,11.0,11.0,0.0,11.0
+71,Agadir  Id Lghachi,Emq,True,False,False,True,11.0,11.0,11.0,,18.0,11.0,,
+72,Agadir  Id Lghachi,baZ,True,False,False,True,11.0,11.0,11.0,11.0,11.0,11.0,11.0,0.0
+73,Agadir  Id Lghachi,Vqg,True,False,False,True,11.0,11.0,11.0,11.0,11.0,0.0,11.0,0.0
+74,Agadir  Id Lghachi,q4D,False,False,False,True,,,,,,,,
+75,Tamerout,3jL,False,False,False,True,,,,,,,,
+76,Tamerout,O6Q,True,False,False,False,11.0,11.0,11.0,11.0,0.0,11.0,11.0,11.0
+77,Tamerout,Baq,False,False,False,True,,,,,,,,
+78,Tamerout,vmj,True,False,False,True,11.0,11.0,11.0,32.0,0.0,11.0,,11.0
+79,Tamerout,9Yj,True,False,False,True,4.0,4.0,4.0,0.0,0.0,11.0,0.0,7.0
+80,Tamerout,Wqv,True,False,False,True,11.0,11.0,11.0,11.0,0.0,0.0,11.0,0.0
+81,Tamerout,wo1,False,False,False,False,,,,,7.0,7.0,0.0,1.0
+82,Tamerout,XaY,False,False,False,False,,,,,,,,
+83,Medarssa Sidi Zekri,P9O,False,False,True,False,,,,,,,,
+84,Agni Ihyia,M1B,True,False,False,True,3.0,6.0,7.0,24.0,10.0,7.0,,6.0
+85,Agni Ihyia,eBP,True,False,False,False,0.0,,,,,,,
+86,Agni Ihyia,7nL,False,False,False,True,6.0,7.0,7.0,11.0,7.0,6.0,4.0,6.0
+87,Agni Ihyia,5gx,True,False,False,True,6.0,7.0,8.0,7.0,11.0,,10.0,18.0
+88,Agni Ihyia,NNV,False,False,False,False,0.0,,,,,,,
+89,Agni Ihyia,6mm,True,False,False,True,4.0,4.0,7.0,3.0,6.0,6.0,3.0,4.0
+90,Agni Ihyia,yLD,True,False,False,True,6.0,4.0,4.0,,6.0,6.0,11.0,14.0
+91,Agni Ihyia,2nl,True,False,False,True,3.0,3.0,3.0,4.0,11.0,4.0,3.0,3.0
+92,Agni Ihyia,rKD,True,False,False,False,0.0,1.0,0.0,1.0,7.0,,,
+93,Agni Ihyia,l9v,False,False,False,True,13.0,0.0,,28.0,,,,
+94,Agni Ihyia,jDv,False,False,False,True,0.0,0.0,0.0,11.0,28.0,,,
+95,Agni Ihyia,Dk1,True,False,False,True,3.0,0.0,3.0,,,3.0,1.0,3.0
+96,Agni Ihyia,Q9g,True,False,False,True,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+97,Agni Ihyia,aXW,False,False,False,False,0.0,,,,,,,
